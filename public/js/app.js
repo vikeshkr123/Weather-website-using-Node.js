@@ -1,4 +1,4 @@
-console.log('client side js file is Loaded!');
+//console.log('client side js file is Loaded!');
 
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
 
